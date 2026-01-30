@@ -1,3 +1,5 @@
+![Header](./github-header-banner.png)
+
 # 💫 About Me:
 🔭 I’m currently working on the Autonomous Software Foundry and a specialized startup focused on secure data erasure and certification.<br>👯 I’m looking to collaborate on anything that breaks the mold—if it’s novel and solves a real problem, I’m in.<br>🤝 I’m looking for help with staying on the cutting edge of AI/ML deployment and high-scale cloud orchestration.<br>🌱 I’m currently learning the intersection of Cloud Infrastructure (AWS) and AI/ML integration.<br>💬 Ask me about building startups from scratch, cloud-native architecture, or building tech that solves genuine pain points.<br>⚡ Fun fact My hyper-fixation is my superpower. When I dive in, I'm the last one standing.
 
